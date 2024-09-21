@@ -15,5 +15,5 @@ in different market environments.
 How to use it:
 Just search for "tradingview.com", go to your prefer stock and paste my code in editor pine, save it and add it to the graphic and it's done!!
 
-
+It is my first important code pls be nice
 
